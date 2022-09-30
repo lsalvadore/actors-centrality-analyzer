@@ -14,3 +14,5 @@ Data for the software is taken from [IMDb](https://www.imdb.com/). The data itse
 IMDb \
 (https://www.imdb.com). \
 Used with permission.**
+
+(The above few lines have been added as requested by point 4 of the conditions listed in the answer to the question [Can I use IMDb data in my software?](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX#) on the [IMDb Help Center](https://help.imdb.com/).)
